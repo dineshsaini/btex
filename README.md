@@ -6,5 +6,6 @@ lined, or multilined.
 
 
 `$ btex -h`
+
 `$ btex -f <file location>`
 
